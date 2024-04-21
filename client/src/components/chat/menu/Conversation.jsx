@@ -57,7 +57,7 @@ const Conversation = ({user}) => {
     return(
         <Components onClick={() => getUser()}>
             <Box>
-                <Image src={user.picture} alt="dp" />
+                <Image src={user.picture} alt="dps" />
             </Box>
             <Box style ={{width:'100%'}}>
                 <Container>

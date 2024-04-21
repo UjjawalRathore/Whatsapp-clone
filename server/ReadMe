@@ -1,0 +1,4 @@
+### `npm i`
+### `nodemon index.js`
+checkout .env file
+makesure db is connected
